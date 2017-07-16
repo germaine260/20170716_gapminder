@@ -9,6 +9,7 @@
 echo Creating project directory structure
 sleep 2
 mkdir -v data code output data/archive
+# -v prints what is going on, which is good when you print and save the output from the script's run.
 
 cd data
 
